@@ -89,11 +89,12 @@ The following regression models were evaluated:
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/mkador/used-car-price-prediction.git
 cd used-car-price-prediction
 
 ---
+
 ## 2. Set Up the Environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -131,3 +132,4 @@ Incorporate images or textual descriptions using deep learning
 Md. Musa kalimulla
 Data Scientist & ML Engineer
 GitHub • LinkedIn
+
