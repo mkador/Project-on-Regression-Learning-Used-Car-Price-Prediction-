@@ -109,13 +109,10 @@ Open the used_car_price_prediction.ipynb notebook and run all cells.
 ---
 
 ## 🚀 Future Work
-Model deployment using Flask or Streamlit
-
-API for real-time car price predictions
-
-Integration with online car resale platforms
-
-Incorporate images or textual descriptions using deep learning
+- Model deployment using Flask or Streamlit
+- API for real-time car price predictions
+- Integration with online car resale platforms
+- Incorporate images or textual descriptions using deep learning
 
 
 ---
