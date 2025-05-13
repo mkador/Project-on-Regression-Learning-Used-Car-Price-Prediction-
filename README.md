@@ -108,15 +108,6 @@ Open the used_car_price_prediction.ipynb notebook and run all cells.
 
 ---
 
-## 📦 Folder Structure
-used-car-price-prediction/
-│
-├── used_car_price_prediction.ipynb   # Main project notebook
-├── data/                             # (Optional) Raw or cleaned data files
-├── models/                           # (Optional) Saved models
-├── requirements.txt                  # Python dependencies
-└── README.md                         # Project documentation
----
 ## 🚀 Future Work
 Model deployment using Flask or Streamlit
 
